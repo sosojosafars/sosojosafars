@@ -1,6 +1,8 @@
 ## OLÁ! 👋
 
-## ⭐ ABOUT ME
+## ⭐ SOBRE MIM:
+- Estagiária TI na SEMEARTECH.
+- 
 
 
 <!--
