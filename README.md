@@ -1,9 +1,6 @@
-## OLÁ! 👋
+## OLÁ! 
 
 ## ⭐ SOBRE MIM:
-- Estagiária TI na SEMEARTECH.
-- 
-
 
 <!--
 **sosojosafars/sosojosafars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
