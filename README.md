@@ -7,6 +7,6 @@
 Estudante e entusiasta na área de tecnologia da informação, rápida aprendizagem, criativa, organizada, comprometida e disposta a aprender.
 ##
 
-<h3 align="left"> Soft Skills</h3>
+<h3>Soft Skills</h3>
 
 
