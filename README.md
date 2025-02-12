@@ -2,6 +2,7 @@
 
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BB415B&repeat=false&width=650&lines=Hello!+I'm+Sofia+Josaf%C3%A1+Rocha+Santos" alt="Typing SVG" /></h1>
 
+
 🪪Today I'm technology traineer <br>🎓 Currenly studying at Cotemig  
 
 # <h2> Tech Stack - Languages and Tools </h2>
