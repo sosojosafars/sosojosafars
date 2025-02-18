@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3888A1"/>
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3888A1&repeat=false&width=650&lines=Hello!+I'm+Sofia+Josaf%C3%A1+Rocha+Santos" alt="Typing SVG" /></h1>
 
-<p align=center >🪪Today I'm technology traineer <br>🎓 Currenly studying at Cotemig </p>
+<p align=center >🪪 Currenly I'm technology traineer, studying at Cotemig </p>
 
  <h3 align="center">Connect with me! </h3>
 <div align="center">
