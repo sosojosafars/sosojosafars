@@ -24,6 +24,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://github-profile-trophy.vercel.app/?username=sosojosafars&theme=rose&no-frame=true&no-bg=true&margin-w=4)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3888A1&section=footer"/>
