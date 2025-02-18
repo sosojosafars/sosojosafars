@@ -18,11 +18,8 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-[![Sofia Josafá's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sosojosafars&bg_color=D2ECEE&color=158E97&line=023535&point=015958&area=true&area&height=350&_color=0CABA8&hide_border=true)](https://github.com/sosojosafars/)
+<br> <br>[![Sofia Josafá's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sosojosafars&bg_color=D2ECEE&color=158E97&line=023535&point=015958&area=true&area&height=350&_color=0CABA8&hide_border=true)](https://github.com/sosojosafars/)
 
-[![](https://visitcount.itsvg.in/api?id=sosojosafars&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3888A1&section=footer"/>
