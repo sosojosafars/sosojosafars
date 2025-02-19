@@ -3,7 +3,7 @@
 
 <br><p align=center>🪪 Currenly I'm technology traineer and study at the technical school Cotemig </p>
 
- <h3 align="center">Connect with me! </h3>
+ <h3 align="center">Connect with me </h3>
 <div align="center">
 
 [![E-mail](https://img.shields.io/badge/-Email-13678A?style=for-the-badge&logo=gmail&logoColor=FFF&color:FFF )](mailto:sofiajosafa19@gmail.com)
