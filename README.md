@@ -9,7 +9,6 @@
 [![E-mail](https://img.shields.io/badge/-Email-13678A?style=for-the-badge&logo=gmail&logoColor=FFF&color:FFF )](mailto:sofiajosafa19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-13678A?style=for-the-badge&logo=linkedin&logoColor=0014A8&color:FFF)](https://www.linkedin.com/in/sofia-josaf%C3%A1-062a18310/?originalSubdomain=br)
 [![](https://visitcount.itsvg.in/api?id=sosojosafars&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 [![](https://visitcount.itsvg.in/api?id=sosojosafars&icon=0&color=0)](https://visitcount.itsvg.in)
 --
