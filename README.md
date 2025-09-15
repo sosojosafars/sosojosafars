@@ -11,10 +11,6 @@
 [![](https://visitcount.itsvg.in/api?id=sosojosafars&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 [![](https://visitcount.itsvg.in/api?id=sosojosafars&icon=0&color=0)](https://visitcount.itsvg.in)
---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br> <br>[![Sofia Josafá's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sosojosafars&bg_color=0A181&color=0CABA8&line=0CABA8&point=0CABA8&area=true&area&height=350&_color=0CABA8&hide_border=true)](https://github.com/sosojosafars/)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3888A1&section=footer"/>
